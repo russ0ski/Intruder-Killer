@@ -7,8 +7,6 @@ echo "| |_) | | | / __/ __|/ _ \/ __| |/ / |   | |/ _ \ / _ \| / __|"
 echo "|  _ <| |_| \__ \__ \ (_) \__ \   <| |   | | (_) | (_) | \__ \ "
 echo "|_| \_\\_____|___/___/\___/|___/_|\_\_|   |_|\___/ \___/|_|___/"
 echo
-# Con esta numerología concreta le estamos indicando al Script
-# que imprima el siguiente mensaje en color Amarillo
 echo "########### INTRUDER KILLER ###########"
 
 # Realizamos una comprobación de si el programa Hping3 se encuentra instalado
