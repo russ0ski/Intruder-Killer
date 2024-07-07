@@ -2,7 +2,6 @@ Este Script en Bash necesita dos herramientas para realizar su función, una es 
 
 Para poder correr el Script, hay que hacerlo con permisos elevados. A continuación un par de ejemplos de cómo se ejecutaría correctamente:
 
-Ejemplo 1 --> sudo bash "nombre del Script".
-Ejemplo 2 --> sudo bash Intruder-Killer.sh.
+Ejemplo 1 --> sudo bash "nombre del Script" Ejemplo 2 --> sudo bash Intruder-Killer.sh
 
 ****** El código de este Script se encuentra aún en fase de desarrollo, pruébalo con precaución ******
